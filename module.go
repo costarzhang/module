@@ -1,4 +1,4 @@
-package module
+package module0
 
 import "fmt"
 
