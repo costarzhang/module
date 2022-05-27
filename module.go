@@ -2,6 +2,6 @@ package module0
 
 import "fmt"
 
-func module() {
+func Module() {
 	fmt.Println("It's module.")
 }
